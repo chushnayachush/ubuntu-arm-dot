@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Postman
+GenericName=Postman
+Path=$HOME/Programs/postman-linux-arm64/Postman/
+Exec=Postman
+Type=Application
+Terminal=false
+Keywords=Text;editor;
+Icon=$HOME/postman-linux-arm64/Postman/app/icons/icon_128x128.png
+Categories=Utility;
+StartupNotify=false
